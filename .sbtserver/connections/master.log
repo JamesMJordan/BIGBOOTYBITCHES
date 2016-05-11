@@ -1,16 +1,13 @@
-New log file opened at Wed May 04 20:58:35 PDT 2016 by 6404@tsundere
-Taking next connection to: 60065
-New client attempting to connect on port: 60066-60065
-  Address = /192.168.56.1:60065
-This client on port 60066 has uuid 4e1b7c12-7218-46a7-a4b9-d43da997b515 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
-Connected Clients: activator-4e1b7c12-7218-46a7-a4b9-d43da997b515
-Taking next connection to: 60065
+New log file opened at Tue May 10 21:31:45 PDT 2016 by 2960@BoB
+Taking next connection to: 51991
+New client attempting to connect on port: 51992-51991
+  Address = /192.168.56.1:51991
+This client on port 51992 has uuid 204a3070-c97e-4776-a58b-b13d04f723f2 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-204a3070-c97e-4776-a58b-b13d04f723f2
+Taking next connection to: 51991
 Checking to see if clients are empty...
 We have 1 non-daemon clients, continuing serving connections.
-Taking next connection to: 60065
+Taking next connection to: 51991
 Checking to see if clients are empty...
 We have 1 non-daemon clients, continuing serving connections.
-Taking next connection to: 60065
-Checking to see if clients are empty...
-We have 1 non-daemon clients, continuing serving connections.
-Taking next connection to: 60065
+Taking next connection to: 51991
